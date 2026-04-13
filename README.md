@@ -15,7 +15,7 @@ A simple chat bot built using HTML, CSS, and JavaScript. The bot responds to use
 
 ## 🎥 Live Demo
 👉 You can try the project here:  
-(https://1543dcbe-61fa-4485-a858-0fdb77c6d1b0-00-363alw0zf91ju.sisko.replit.dev/)
+[🔗Click to Open](https://1543dcbe-61fa-4485-a858-0fdb77c6d1b0-00-363alw0zf91ju.sisko.replit.dev/)
 
 
 ---
