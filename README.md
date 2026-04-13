@@ -23,8 +23,8 @@ A simple chat bot built using HTML, CSS, and JavaScript. The bot responds to use
 ## 📸 Screenshots
 
 ### Chat Interface
-![Chat Bot Screenshot](<img width="1898" height="1015" alt="image" src="https://github.com/user-attachments/assets/204cab56-b6d3-4744-8e7a-fcd2ccfb5869" />
-)
+<img width="1898" height="1015" alt="image" src="https://github.com/user-attachments/assets/204cab56-b6d3-4744-8e7a-fcd2ccfb5869" />
+
 
 
 ---
